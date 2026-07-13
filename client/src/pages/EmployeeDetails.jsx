@@ -24,7 +24,6 @@ function EmployeeDetails() {
   if (!employee) {
     return (
       <>
-        <Navbar />
         <div className="container mt-5">
           <h3>Loading...</h3>
         </div>
