@@ -21,7 +21,6 @@ function DashboardCard({ title, value, icon, color, growth }) {
         </div>
       </div>
 
-      <p>▲ {growth}% this month</p>
     </motion.div>
   );
 }
